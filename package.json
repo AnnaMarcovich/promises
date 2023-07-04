@@ -10,7 +10,7 @@
     "3": "nodemon 3_all_parallel_array.mjs",
     "4": "nodemon 4_props_parallel_obj.mjs",
     "5": "nodemon 5_race_some.mjs",
-    "6": "nodemon 6-pop-challenge-1"
+    "6": "nodemon 6-pop-challenge-1.mjs"
   },
   "keywords": [
     "promises",
